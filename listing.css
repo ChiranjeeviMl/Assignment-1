@@ -1,5 +1,6 @@
 body{
-    margin:auto
+    margin:auto;
+    test-decoration:none;
 }
 a{
     text-decoration:none;
@@ -63,6 +64,7 @@ h4{
 p{
     color:#070200;
     font-weight:bold;
+    
 }
 #b1{
     margin-left: 30px;
